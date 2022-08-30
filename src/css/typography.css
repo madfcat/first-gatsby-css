@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Shippori Mincho B1';
+    src: local('Shippori Mincho B1'), url('../fonts/ShipporiMinchoB1-Regular.ttf') format('truetype');
+    font-weight: normal; 
+}

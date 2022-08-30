@@ -15,8 +15,14 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "fontsource-open-sans": "^4.0.0",
     "gatsby": "^4.21.1",
+    "gatsby-plugin-sass": "^5.21.0",
+    "gatsby-plugin-styled-components": "^5.21.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "sass": "^1.54.6",
+    "styled-components": "^5.3.5"
   }
 }

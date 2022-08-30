@@ -1,0 +1,34 @@
+.header {
+    background-color: rgb(238, 49, 65);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3rem;
+}
+
+.headerlinks ul {
+    width: 30vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.headerlinks ul > li {
+    list-style: none;
+}
+
+.headerlinks ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+.headerlinks ul > li > a:hover {
+    color: yellow;
+}
+
+.logo {
+    font-size: 2rem;
+    margin: 0.5;
+}
+
+.logo span {
+    color: yellow;
+}

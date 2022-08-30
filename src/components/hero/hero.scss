@@ -1,0 +1,32 @@
+$sm-spacing: 1rem;
+$md-spacing: 2rem;
+$lg-spacing: 4rem;
+
+.hero {
+    min-height: 350px;
+    display: flex;
+    justify-content: space-between;
+    margin: $md-spacing $lg-spacing;
+    padding: $sm-spacing;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+
+    h5 {
+        font-size: 1.5rem
+    }
+
+    h3 {
+        font-size: 2rem
+    }
+
+    p {
+        font-size: 1.2rem
+    }
+
+    .video-section {
+        padding: 0 $sm-spacing;
+    }
+
+    .text-section {
+        padding: 0 $md-spacing;
+    }
+}

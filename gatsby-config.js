@@ -3,5 +3,8 @@ module.exports = {
     title: `MCP Sports`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sass`
+  ],
 }

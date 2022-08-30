@@ -1,0 +1,15 @@
+.category {
+    width: 300px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.category .photo {
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+.category .text h4 {
+    font-size: 1.3rem;
+}
